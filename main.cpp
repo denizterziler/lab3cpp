@@ -141,58 +141,6 @@ int main() {
 
 
     }while(input!=-1);
-   /* stack->push_Node(5);
-    stack->display();
-    cout<<"Top: "<<stack->returnTop()<<endl;
-    cout<<"Size: "<<stack->size()<<endl;
-
-    stack->push_Node(15);
-    stack->display();
-    cout<<"Top: "<<stack->returnTop()<<endl;
-    cout<<"Size: "<<stack->size()<<endl;
-
-    stack->push_Node(20);
-    stack->display();
-    cout<<"Top: "<<stack->returnTop()<<endl;
-    cout<<"Size: "<<stack->size()<<endl;
-
-    stack->push_Node(25);
-    stack->display();
-    cout<<"Top: "<<stack->returnTop()<<endl;
-
-    stack->push_Node(30);
-    stack->display();
-    cout<<"Top: "<<stack->returnTop()<<endl;
-
-    stack->push_Node(35);
-    stack->display();
-    cout<<"Top: "<<stack->returnTop()<<endl;
-
-
-
-    stack->pop();
-    stack->display();
-    cout<<"Top: "<<stack->returnTop()<<endl;
-
-    stack->pop();
-    stack->display();
-    cout<<"Top: "<<stack->returnTop()<<endl;
-
-    stack->pop();
-    stack->display();
-    cout<<"Top: "<<stack->returnTop()<<endl;
-
-    stack->pop();
-    stack->display();
-    cout<<"Top: "<<stack->returnTop()<<endl;
-
-    stack->pop();
-    stack->display();
-    cout<<"Top: "<<stack->returnTop()<<endl;
-
-    stack->pop();
-    stack->display();
-    cout<<"Top: "<<stack->returnTop()<<endl;*/
 
     return 0;
 }
